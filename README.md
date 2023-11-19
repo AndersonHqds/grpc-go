@@ -1,3 +1,5 @@
+![Go-gRPC](assets/go_grpc.png)
+
 # gRPC Demonstration
 
 This project is for practice and study the grpc and protocol buffer technologies.
